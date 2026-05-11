@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-#testeo pipeline
+#testeo pipelinee
 # Limpia contenido por defecto
 RUN rm -rf /usr/share/nginx/html/*
 
